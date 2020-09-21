@@ -6,5 +6,5 @@ unzip the file
 decode the word using Fernet https://asecuritysite.com/encryption/ferdecode 
   ![decode](decode.png)
   
-Got..!!!!!! here is the Flag
+Got It..!!!!!! here is the Flag
  
